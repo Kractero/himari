@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "leaderboard",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "temp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "fast-xml-parser": "^4.3.2",
-    "pako": "^2.1.0"
+    "pako": "^2.1.0",
+    "papaparse": "^5.4.1"
   },
   "type": "module",
   "devDependencies": {

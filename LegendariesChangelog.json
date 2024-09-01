@@ -1,0 +1,2082 @@
+[
+  {
+    "date": "2024-08-28",
+    "changes": [
+      {
+        "name": "Bears Armed Mission",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-08-27",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-08-26",
+    "changes": [
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-25",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-24",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-21",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-20",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "USS Monitor",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-08-19",
+    "changes": [
+      {
+        "name": "Tremalkier",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-17",
+    "changes": [
+      {
+        "name": "Bears Armed Mission",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-12",
+    "changes": [
+      {
+        "name": "Aguaria Major",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-08-11",
+    "changes": [
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Wrapper",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-08",
+    "changes": [
+      {
+        "name": "Helaw",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-07",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-05",
+    "changes": [
+      {
+        "name": "Aguaria Major",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-04",
+    "changes": [
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-08-01",
+    "changes": [
+      {
+        "name": "Fauxia",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-30",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-29",
+    "changes": [
+      {
+        "name": "Kundu",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-28",
+    "changes": [
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-24",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-23",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-22",
+    "changes": [
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-21",
+    "changes": [
+      {
+        "name": "Notyoutopia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-20",
+    "changes": [
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-18",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-16",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-15",
+    "changes": [
+      {
+        "name": "Ardchoille",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Daarwyrth",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-10",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Honeydewistania",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-08",
+    "changes": [
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-07",
+    "changes": [
+      {
+        "name": "Little Flowers",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-06",
+    "changes": [
+      {
+        "name": "Little Flowers",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-05",
+    "changes": [
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-07-02",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-07-01",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-29",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-28",
+    "changes": [
+      {
+        "name": "Ardchoille",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-26",
+    "changes": [
+      {
+        "name": "Helaw",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Bears Armed Mission",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-06-23",
+    "changes": [
+      {
+        "name": "Territorio di Nessuno",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-19",
+    "changes": [
+      {
+        "name": "Mallorea and Riva",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-16",
+    "changes": [
+      {
+        "name": "Cogitation",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-06-15",
+    "changes": [
+      {
+        "name": "Grays Harbor",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-11",
+    "changes": [
+      {
+        "name": "The Centauri",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-06-10",
+    "changes": [
+      {
+        "name": "The Centauri",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-06-09",
+    "changes": [
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-08",
+    "changes": [
+      {
+        "name": "Bears Armed Mission",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-05",
+    "changes": [
+      {
+        "name": "Helaw",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-04",
+    "changes": [
+      {
+        "name": "Cogitation",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Eta Carinae",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-06-03",
+    "changes": [
+      {
+        "name": "Eta Carinae",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Rouge Christmas State",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "USS Monitor",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-06-01",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-05-31",
+    "changes": [
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-05-29",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-05-02",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-04-09",
+    "changes": [
+      {
+        "name": "Honeydewistania",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-04-04",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-04-03",
+    "changes": [
+      {
+        "name": "Grays Harbor",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-27",
+    "changes": [
+      {
+        "name": "Kundu",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Golgothastan",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-03-23",
+    "changes": [
+      {
+        "name": "Gruenberg",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-03-21",
+    "changes": [
+      {
+        "name": "Mallorea and Riva",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-19",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-18",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-03-15",
+    "changes": [
+      {
+        "name": "Uelvan",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-03-12",
+    "changes": [
+      {
+        "name": "Honeydewistania",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-09",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-06",
+    "changes": [
+      {
+        "name": "Helaw",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-03-05",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-25",
+    "changes": [
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-02-23",
+    "changes": [
+      {
+        "name": "Dutchyland",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-02-19",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-02-17",
+    "changes": [
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-16",
+    "changes": [
+      {
+        "name": "Uelvan",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-02-12",
+    "changes": [
+      {
+        "name": "Canyamel",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-08",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Kundu",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-07",
+    "changes": [
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-04",
+    "changes": [
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-02-01",
+    "changes": [
+      {
+        "name": "Lancaster of Wessex",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "The Free Joy State",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Marsupial Illuminati",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-01-30",
+    "changes": [
+      {
+        "name": "DarthStassen",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-01-28",
+    "changes": [
+      {
+        "name": "Lancaster of Wessex",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-01-24",
+    "changes": [
+      {
+        "name": "Honeydewistania",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-01-22",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-01-21",
+    "changes": [
+      {
+        "name": "The Marsupial Illuminati",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-01-16",
+    "changes": [
+      {
+        "name": "Duxburian Union",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-01-14",
+    "changes": [
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Duxburian Union",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2024-01-04",
+    "changes": [
+      {
+        "name": "McMasterdonia",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2024-01-03",
+    "changes": [
+      {
+        "name": "DarthStassen",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Nation of Quebec",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-31",
+    "changes": [
+      {
+        "name": "Nation of Quebec",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-30",
+    "changes": [
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-24",
+    "changes": [
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-20",
+    "changes": [
+      {
+        "name": "Candensia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-19",
+    "changes": [
+      {
+        "name": "Pythagosaurus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-17",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-16",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Kyrusia",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-15",
+    "changes": [
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-13",
+    "changes": [
+      {
+        "name": "G C Bakura",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-12",
+    "changes": [
+      {
+        "name": "Candensia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-11",
+    "changes": [
+      {
+        "name": "Glen-Rhodes",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-10",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Kundu",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-08",
+    "changes": [
+      {
+        "name": "Kundu",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-06",
+    "changes": [
+      {
+        "name": "The Marsupial Illuminati",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-12-03",
+    "changes": [
+      {
+        "name": "The Marsupial Illuminati",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-01",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-11-28",
+    "changes": [
+      {
+        "name": "Mallorea and Riva",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "G C Bakura",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-11-20",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-11-08",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Yaorozu",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "United Calanworie",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-11-06",
+    "changes": [
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-11-02",
+    "changes": [
+      {
+        "name": "The Grim Reaper",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-10-30",
+    "changes": [
+      {
+        "name": "Mallorea and Riva",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-10-28",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-10-23",
+    "changes": [
+      {
+        "name": "Mallorea and Riva",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-10-19",
+    "changes": [
+      {
+        "name": "USS Monitor",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-10-18",
+    "changes": [
+      {
+        "name": "Yaorozu",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Fauxia",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "date": "2023-10-17",
+    "changes": [
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "United Calanworie",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
+    "date": "2023-10-15",
+    "changes": [
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  }
+]

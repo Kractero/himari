@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+:root {
+  --background: white;
+  --main-text: rgb(12, 12, 12);
+  --link-text: #3a64b3;
+  --table-header: white;
+  --table-header-bg: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: black;
+    --main-text: #c2c3c7;
+    --link-text: #bbd2fc;
+    --table-header: black;
+    --table-header-bg: white;
+  }
+}
+
+body {
+  border: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Open Sans", Arial, sans-serif;
+  color: var(--main-text);
+  background-color: var(--background);
+}
+
+.error {
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+
+.toggled {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.content input {
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+#toggleHeadersButton {
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  margin-top: 0px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: rgb(38 38 38);
+  border-radius: 0.5rem;
+  border: none;
+  transition: background-color 500ms;
+  color: #c2c3c7;
+}
+
+#toggleHeadersButton:hover {
+  opacity: 0.9;
+}
+
+table {
+  width: 100%;
+  caption-side: bottom;
+  font-size: 14px;
+  text-align: left;
+  border-collapse: collapse;
+  counter-reset: serial-number;
+  border-radius: 0.25rem;
+}
+
+table thead tr {
+  border-bottom: 1px solid;
+}
+
+table td:first-child:before {
+  counter-increment: serial-number;
+  content: counter(serial-number);
+}
+
+table th {
+  height: 48px;
+  padding: 0.75rem;
+  font-weight: 500;
+  color: var(--table-header);
+  background: var(--table-header-bg);
+}
+
+table td {
+  padding: 16px;
+}
+
+table tbody tr {
+  border-bottom: 1px solid;
+}
+
+a {
+  text-decoration: none;
+  color: var(--link-text);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input {
+  font-family: "Open Sans", Arial, sans-serif;
+  border: none;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  text-align: center;
+  border: black solid 1px;
+  /* width: 12rem; */
+  margin-left: auto;
+  margin-right: auto;
+  background: none;
+  color: var(--main-text);
+  font-size: 1.5rem;
+}
+
+input:hover {
+  text-decoration: underline;
+  animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@media only screen and (max-width: 760px),
+  (min-device-width: 768px) and (max-device-width: 1024px) {
+  .season-cell {
+    display: block;
+  }
+  .season-head {
+    display: block;
+    padding: 6px;
+    height: min-content;
+  }
+  tr {
+    border: 1px solid #ccc;
+  }
+  .season-head {
+    border: 1px solid black;
+  }
+}
