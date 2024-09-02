@@ -2,7 +2,7 @@ name: generate new data
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
 
   workflow_dispatch:
 
@@ -16,39 +16,25 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.12'
 
       - name: Run main script
         env:
           SOME_SECRET: ${{ secrets.TOKEN }}
-        run: python dump.py
+        run: |
+          python dump.py
+          python leaderboard.py
+          python legendaries.py
 
       - name: Get current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-      - name: Install Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: npm
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run leaderboard.js
-        env:
-          SOME_SECRET: ${{ secrets.TOKEN }}
-        run: |
-          today=$(date +"%Y-%m-%d")
-          node leaderboard.js
-          node legendaries.js
 
       - name: Commit and Push JSON
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions"
-          git add Legendaries*.json
-          git add "leaderboard.txt"
+          git add "files/Legendaries*.json"
+          git add "files/leaderboard.txt"
           git add "data/*.json"
           git add "data/*.xml"
           git commit -m "(${{ env.NOW }}) Update"

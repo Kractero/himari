@@ -39,9 +39,7 @@ def main():
     download_and_save_xml('https://www.nationstates.net/pages/nations.xml.gz', f'data/{todays_date}-Nations.xml', ("NAME", "DBID", "ENDORSEMENTS"), "NATION")
     previous_date = (datetime.now() - timedelta(days=2)).strftime('%Y-%m-%d')
 
-    xml_files = os.listdir('data')
-
-    with open('cards_id.txt', 'r') as file:
+    with open('files/card_ids.txt', 'r') as file:
         card_ids = set(line.strip() for line in file if line.strip())
 
     tree = ET.parse(f'data/{todays_date}-Nations.xml')
@@ -59,9 +57,13 @@ def main():
     with open(f'data/{todays_date}-cards.json', 'w') as json_file:
         json.dump(cards, json_file, indent=2)
 
+    remove_suffix = ['-Nations.xml', '-Regions.xml', '-cards.json']
+    xml_files = os.listdir('data')
     for xml_file in xml_files:
-        file_date = xml_file.split('-R')[0]
-        if file_date < previous_date:
-            os.remove(os.path.join('data', xml_file))
+        if any(xml_file.endswith(suffix) for suffix in remove_suffix):
+            file_date = xml_file.split('-R')[0]
+            if file_date < previous_date:
+                os.remove(os.path.join('data', xml_file))
 
-main()
+if __name__ == "__main__":
+    main()
