@@ -6,7 +6,7 @@ from json import dumps
 
 top100names = []
 
-for i in range(1):
+for i in range(5):
     start = 1 + i * 20
 
     with urlopen(Request(f"https://www.nationstates.net/cgi-bin/api.cgi?q=censusranks&scale=86&start={start}", headers={'User-Agent': 'Kractero using Ledger'})) as response:
@@ -19,7 +19,13 @@ for i in range(1):
             name = nation.find('NAME').text
             top100names.append(name)
 
-        sleep(0.7)
+        ratelimit_remaining = int(response.headers.get('RateLimit-Remaining'))
+        ratelimit_reset = int(response.headers.get('RateLimit-Reset'))
+
+        if ratelimit_remaining > 0:
+            sleep((ratelimit_reset / ratelimit_remaining))
+        else:
+            sleep(ratelimit_reset)
 
 top100data = []
 
@@ -87,7 +93,13 @@ for name in top100names:
 
         top100data.append(deck)
 
-        sleep (0.7)
+        ratelimit_remaining = int(response.headers.get('RateLimit-Remaining'))
+        ratelimit_reset = int(response.headers.get('RateLimit-Reset'))
+
+        if ratelimit_remaining > 0:
+            sleep((ratelimit_reset / ratelimit_remaining))
+        else:
+            sleep(ratelimit_reset)
 
 current_date = datetime.now().strftime('%Y-%m-%d')
 with open(f'data/{current_date}.json', 'w') as file:
