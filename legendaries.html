@@ -12,7 +12,7 @@
     <script>
       async function fillTable() {
         const activityRes = await fetch(
-          "https://raw.githubusercontent.com/Kractero/ledger/main/Legendaries.json"
+          "https://raw.githubusercontent.com/Kractero/himari/mainfiles/Legendaries.json"
         );
         let json = await activityRes.json();
         json.sort((a, b) => {

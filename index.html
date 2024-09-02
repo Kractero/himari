@@ -18,7 +18,7 @@
     </footer>
     <script>
       const minDate = '2023-10-05'
-      fetch('https://raw.githubusercontent.com/Kractero/ledger/main/files/leaderboard.txt')
+      fetch('https://raw.githubusercontent.com/Kractero/himari/main/files/leaderboard.txt')
         .then(response => response.text())
         .then(dates => {
           const lines = dates.split('\n').reverse()
@@ -44,7 +44,7 @@
       })
 
       async function fillTable(fetchDate) {
-        const filePath = `https://raw.githubusercontent.com/Kractero/ledger/main/data/${fetchDate}.json`
+        const filePath = `https://raw.githubusercontent.com/Kractero/himari/main/data/${fetchDate}.json`
         const data = await fetch(filePath)
         document.querySelector('.error').textContent = ''
         const json = await data.json()
