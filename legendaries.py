@@ -39,5 +39,7 @@ def main():
     with open('files/LegendariesChangelog.json', 'w') as legendaries_data_file:
         json.dump(legendaries_data, legendaries_data_file, indent=2)
 
+    print ("Done computing legendaries")
+
 if __name__ == "__main__":
     main()

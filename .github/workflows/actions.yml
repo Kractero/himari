@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install dependencies
+        run: pip install -r pandas
+
       - name: Run main script
         env:
           SOME_SECRET: ${{ secrets.TOKEN }}
@@ -25,6 +28,7 @@ jobs:
           python dump.py
           python leaderboard.py
           python legendaries.py
+          python update_csv.py
 
       - name: Get current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
@@ -37,6 +41,7 @@ jobs:
           git add "files/leaderboard.txt"
           git add "data/*.json"
           git add "data/*.xml"
+          git add "files/trades.csv"
           git commit -m "(${{ env.NOW }}) Update"
           git push
 
