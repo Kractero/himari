@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@font-face {
+  font-family: "Noto Sans";
+  src:
+    url("public/noto-sans-latin-ext-400-normal.woff2") format("woff2"),
+}
 
 :root {
   --background: white;
@@ -14,7 +18,6 @@
     --main-text: #c2c3c7;
     --link-text: #bbd2fc;
     --table-header: black;
-    --table-header-bg: white;
   }
 }
 
@@ -22,7 +25,7 @@ body {
   border: 0;
   padding: 0;
   font-size: 14px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: var(--main-text);
   background-color: var(--background);
 }
@@ -45,15 +48,9 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-  max-width: 768px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 3rem;
-}
-
-.toggled {
-  margin-left: 0;
-  margin-right: 0;
 }
 
 .content input {
@@ -103,8 +100,7 @@ table th {
   height: 48px;
   padding: 0.75rem;
   font-weight: 500;
-  color: var(--table-header);
-  background: var(--table-header-bg);
+  color: var(--main-text);
 }
 
 table td {
@@ -169,4 +165,31 @@ input:hover {
   .season-head {
     border: 1px solid black;
   }
+}
+
+.chart {
+  width: 100%;
+  height: 100%;
+  min-height: 750px;
+}
+
+.table-holder {
+  transform: rotate(180deg);
+  overflow-x: scroll;
+  height: 100%;
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+}
+
+.table-holder table {
+  transform: rotate(-180deg);
+  min-width: 100%;
+  margin: auto;
+  text-align: right;
+}
+
+.content .legendaries-table, .watch {
+  max-width: 768px;
+  margin: auto;
 }

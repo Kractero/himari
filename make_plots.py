@@ -165,6 +165,15 @@ fig6.add_scatter(
 # fig6.show()
 fig6.write_html("files/plot6.html")
 
+color_scheme = {
+    'commons_prices': '#7e7e7e',         # Common
+    'uncommons_prices': '#00aa4c',       # Uncommon
+    'rares_prices': '#008ec1',           # Rare
+    'ultra-rares_prices': '#ac00e6',     # Ultra Rare
+    'epics_prices': '#db9e1c',           # Epic
+    'legendaries_prices': 'gold'         # Legendary
+}
+
 # Plot 7: Total price broken down into rarities
 fig7 = px.area(
     pivot,
