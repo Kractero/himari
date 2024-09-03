@@ -1,0 +1,97 @@
+<html>
+  <head>
+    <title>Daily Graphs</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="content">
+      <h2>Daily Graphs</h2>
+      <p>(UTC, computed at 23:00 UTC-7)</p>
+
+      <div class="watch">
+        <table id="summaryTable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Date</th>
+              <th>Total Trades</th>
+              <th>Total Price</th>
+              <th>Total Buyers</th>
+              <th>Total Sellers</th>
+              <th>Total Gifts</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <iframe class="chart" src="/files/plot1.html"></iframe>
+        <iframe class="chart" src="/files/plot2.html"></iframe>
+        <iframe class="chart" src="/files/plot3.html"></iframe>
+        <iframe class="chart" src="/files/plot4.html"></iframe>
+        <iframe class="chart" src="/files/plot5.html"></iframe>
+        <iframe class="chart" src="/files/plot6.html"></iframe>
+        <iframe class="chart" src="/files/plot7.html"></iframe>
+      </div>
+    </div>
+  </body>
+
+  <script>
+    fetch('/files/trades.csv')
+      .then(response => response.text())
+      .then(data => {
+        const lines = data.trim().split('\n')
+        const lastDate = new Date(lines[lines.length - 1].split(',')[0])
+
+        const summary = []
+        for (let i = 0; i < 7; i++) {
+          const dateStr = lastDate.toISOString().split('T')[0]
+          let totalTrades = 0
+          let totalPrice = 0
+          let totalBuyers = 0
+          let totalSellers = 0
+          let totalGifts = 0
+
+          lines.forEach(line => {
+            const [date, , , trades, price, buyers, sellers, gifts] = line.split(',')
+
+            if (date === dateStr) {
+              totalTrades += parseInt(trades, 10)
+              totalPrice += parseFloat(price)
+              totalBuyers += parseInt(buyers, 10)
+              totalSellers += parseInt(sellers, 10)
+              totalGifts += parseInt(gifts, 10)
+            }
+          })
+
+          summary.push({
+            date: dateStr,
+            totalTrades,
+            totalPrice: totalPrice.toFixed(2),
+            totalBuyers,
+            totalSellers,
+            totalGifts,
+          })
+
+          lastDate.setDate(lastDate.getDate() - 1)
+        }
+
+        const tbody = document.getElementById('summaryTable').querySelector('tbody')
+        summary.forEach(day => {
+          const row = document.createElement('tr')
+          row.innerHTML = `
+                        <td></td>
+                        <td>${day.date}</td>
+                        <td>${day.totalTrades}</td>
+                        <td>${day.totalPrice}</td>
+                        <td>${day.totalBuyers}</td>
+                        <td>${day.totalSellers}</td>
+                        <td>${day.totalGifts}</td>
+                    `
+          tbody.appendChild(row)
+        })
+      })
+      .catch(error => {
+        console.error('Error fetching or processing the CSV file:', error)
+      })
+  </script>
+</html>

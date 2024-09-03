@@ -11,7 +11,9 @@
       <button id="toggleHeadersButton">Toggle Additional Headers</button>
     </div>
     <div class="content">
-      <table dir="ltr"></table>
+      <div class="table-holder" dir="rtl">
+        <table dir="ltr"></table>
+      </div>
     </div>
     <footer>
       <p style="text-align: center; margin-bottom: 3rem">The oldest tracked date is 2023-10-05.</p>
@@ -40,7 +42,6 @@
       const toggleHeadersButton = document.getElementById('toggleHeadersButton')
       toggleHeadersButton.addEventListener('click', () => {
         document.querySelectorAll('.hideable').forEach(el => el.classList.toggle('hide'))
-        document.querySelector('.content').classList.toggle('toggled')
       })
 
       async function fillTable(fetchDate) {

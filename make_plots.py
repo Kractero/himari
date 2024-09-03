@@ -66,7 +66,7 @@ fig1.add_scatter(
     name='Total Trades',
     line=dict(color='black', width=1),
 )
-fig1.show()
+# fig1.show()
 fig1.write_html("files/plot1.html")
 
 # Plot 2: Total volume (price) moved on the market per day
@@ -77,7 +77,7 @@ fig2 = px.line(
     title='Total Volume (Price) Per Day',
     labels={'trade_day': 'Day', 'total_price': 'Total Volume'},
 )
-fig2.show()
+# fig2.show()
 fig2.write_html("files/plot2.html")
 
 # Plot 3: Total nations - broken into buyers and sellers
@@ -96,7 +96,7 @@ fig3.add_scatter(
     name='Total Nations',
     line=dict(color='black', width=1),
 )
-fig3.show()
+# fig3.show()
 fig3.write_html("files/plot3.html")
 
 # Plot 4: Total trades per day - broken into seasons
@@ -115,7 +115,7 @@ fig4.add_scatter(
     name='Total Trades',
     line=dict(color='black', width=1),
 )
-fig4.show()
+# fig4.show()
 fig4.write_html("files/plot4.html")
 
 # Plot 5: Total trades per day - broken into rarities
@@ -136,7 +136,14 @@ fig5 = px.area(
     labels={'trade_day': 'Day', 'value': 'Trades'},
     color_discrete_map=color_scheme
 )
-fig5.show()
+fig5.add_scatter(
+    x=pivot['trade_day'],
+    y=pivot['total_trades'],
+    mode='lines',
+    name='Total Trades',
+    line=dict(color='black', width=1),
+)
+# fig5.show()
 fig5.write_html("files/plot5.html")
 
 # Plot 6: Total price per day - broken into seasons
@@ -155,7 +162,7 @@ fig6.add_scatter(
     name='Total Price',
     line=dict(color='black', width=1),
 )
-fig6.show()
+# fig6.show()
 fig6.write_html("files/plot6.html")
 
 # Plot 7: Total price broken down into rarities
@@ -175,7 +182,7 @@ fig7.add_scatter(
     line=dict(color='black', width=1),
 )
 
-fig7.show()
+# fig7.show()
 fig7.write_html("files/plot7.html")
 
 print ("Done with plotly generation")
