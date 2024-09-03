@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r pandas
+        run: pip install pandas plotly
 
       - name: Run main script
         env:
@@ -29,6 +29,7 @@ jobs:
           python leaderboard.py
           python legendaries.py
           python update_csv.py
+          python plotly.py
 
       - name: Get current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
@@ -42,6 +43,7 @@ jobs:
           git add "data/*.json"
           git add "data/*.xml"
           git add "files/trades.csv"
+          git add "files/*.html"
           git commit -m "(${{ env.NOW }}) Update"
           git push
 
