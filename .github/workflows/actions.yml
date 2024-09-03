@@ -29,7 +29,7 @@ jobs:
           python leaderboard.py
           python legendaries.py
           python update_csv.py
-          python plotly.py
+          python make_plots.py
 
       - name: Get current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
