@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-09-08",
+    "changes": [
+      {
+        "name": "Artoonia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-09-05",
     "changes": [
       {
