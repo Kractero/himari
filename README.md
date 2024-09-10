@@ -1,29 +1,24 @@
-# Hare Dumps
+# Himari
 
-The Hare dumps. The latest two regional and nation dumps, stripped to the minimum attributes required to run what is necessary.
+**Himari** contains some GitHub Actions for processing various NationStates things for Hare and other card things. The project consists of multiple components:
 
-Attributes will be added as necessary if needed.
+1. **Dump Parser:** Parses NationStates regional and nation dumps, extracting the necessary data for use in Hare and cte statuses.
+2. **Ledger:** Tracks the cte status of nations, legendary cards, and top 100 card players.
+3. **Daily STats:** Updates a CSV containing trade stats and generates graphs to visualize the data.
 
+New data is generated daily at **11 PM UTC-7**.
 
-# ledger
+### What is the sorting order for the Ledger?
 
-A site to view data about
+The sorting order defaults to showing CTE (ceased-to-exist) nations first, followed by non-CTE nations. When sorting by season, it will show:
 
-1. the top 100 cards players stats, including bank, deck value and more. All data is sortable either descending or ascending.
-2. living status of legendaries
+1. CTE nations for the selected season.
+2. Non-CTE nations for the selected season.
+3. Non-CTE nations without the selected season.
+4. CTE nations without the selected season.
 
-New data is generated every 1 AM PST and previously generated ones can be searched and viewed.
+### Why is data generated at 11 PM PST?
 
-## Q/A
+The CTE checker relies on NationStates nation dumps, which are typically available around 10:30 PM PST. The script runs at 11 PM PST to ensure the dumps exist before processing.
 
-### What is that confusing sort order?
-
-Great question!!! No idea to be honest. I wanted it to be better, but at the moment, it sorts default CTE first, then non CTE, and you can then sort it further by season which will show cards with the sorted season that CTE, cards with the sorted ceason that are not CTE, cards without the sorted season that are not CTE, and cards without the sorted season that are CTE.
-
-### Why 1 AM PST?
-
-I have a repo generating the data needed for the cte checker running at midnight PST based off NS nation dumps which should be made at 10:30 PST, this offset is to ensure they exist.
-
-### Why doesn't that repo also just run the script after so it is guaranteed to exist?
-
-Great question!!!
+![himari-eimi](public/himari-eimi.jpg)
