@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-09-24",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-09-23",
     "changes": [
       {
