@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-09-30",
+    "changes": [
+      {
+        "name": "Saltanyas",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-09-29",
     "changes": [
       {
