@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-10-03",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2024-09-30",
     "changes": [
       {
