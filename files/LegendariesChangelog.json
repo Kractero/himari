@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-22",
+    "changes": [
+      {
+        "name": "The Salaxalans",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2024-10-21",
     "changes": [
       {
