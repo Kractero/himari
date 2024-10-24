@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nation Cards Data</title>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+  </head>
+  <body>
+    <label for="nationInput">Enter Nation(s) (comma-separated):</label>
+    <input type="text" id="nationInput" placeholder="e.g. Mikeswill, Koem Kab" />
+    <button onclick="updateChart()">Update Graph</button>
+
+    <br />
+
+    <label for="metricDropdown">Select Metric:</label>
+    <select id="metricDropdown" onchange="updateChart()">
+      <option value="Deck Value">Deck Value</option>
+      <option value="Bank">Bank</option>
+      <option value="Card Count">Card Count</option>
+      <option value="Legendary">Legendary</option>
+      <option value="S3 Legendary">S3 Legendary</option>
+    </select>
+
+    <div id="container" style="width: 100%; height: 400px"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
