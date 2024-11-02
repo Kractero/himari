@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-01",
+    "changes": [
+      {
+        "name": "Ardchoille",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Little Flowers",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-10-31",
     "changes": [
       {
