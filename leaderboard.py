@@ -30,7 +30,7 @@ for i in range(5):
 top100data = []
 
 for name in top100names:
-    with urlopen(Request(f"https://www.nationstates.net/cgi-bin/api.cgi/?nationname={name}&q=cards+deck+info", headers={'User-Agent': 'Kractero using Ledger'})) as response:
+    with urlopen(Request(f"https://www.nationstates.net/cgi-bin/api.cgi?nationname={name}&q=cards+deck+info", headers={'User-Agent': 'Kractero using Ledger'})) as response:
         response_bytes = response.read()
         response_text = response_bytes.decode('utf-8')
 
