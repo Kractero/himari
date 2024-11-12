@@ -1517,7 +1517,7 @@
     "S2": true,
     "S1": false,
     "S3": true,
-    "exists": false
+    "exists": true
   },
   {
     "name": "North East Somerset",
@@ -2165,7 +2165,7 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": true
   },
   {
     "name": "Racoda",
@@ -2173,7 +2173,7 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": true
   },
   {
     "name": "The IGER Civilization",
@@ -2397,7 +2397,7 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": true
   },
   {
     "name": "Honeydewistania",
