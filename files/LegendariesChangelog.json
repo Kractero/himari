@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-25",
+    "changes": [
+      {
+        "name": "Myrth",
+        "seasons": [
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Neutraligon",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-11-22",
     "changes": [
       {
