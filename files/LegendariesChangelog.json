@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-12-13",
+    "changes": [
+      {
+        "name": "Territorio di Nessuno",
+        "seasons": [
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-12-10",
     "changes": [
       {
