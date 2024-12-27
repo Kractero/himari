@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-12-26",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2024-12-21",
     "changes": [
       {
