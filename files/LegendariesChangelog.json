@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-12-29",
+    "changes": [
+      {
+        "name": "Earth Federation",
+        "seasons": [
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Giovenith",
+        "seasons": [
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2024-12-26",
     "changes": [
       {
