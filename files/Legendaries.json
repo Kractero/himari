@@ -5,7 +5,8 @@
     "S1": true,
     "S2": true,
     "S3": true,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Frisbeeteria",
@@ -13,7 +14,8 @@
     "S1": true,
     "S2": true,
     "S3": true,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Reploid Productions",
@@ -21,7 +23,8 @@
     "S1": true,
     "S2": true,
     "S3": true,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "NERVUN",
@@ -29,1783 +32,8 @@
     "S1": true,
     "S2": true,
     "S3": false,
-    "exists": false
-  },
-  {
-    "name": "The Archregimancy",
-    "id": "7",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Euroslavia",
-    "id": "29",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Ballotonia",
-    "id": "38",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Sanctaria",
-    "id": "42",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Katganistan",
-    "id": "70",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "SalusaSecondus",
-    "id": "71",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Knootoss",
-    "id": "73",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "NewTexas",
-    "id": "83",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Zwangzug",
-    "id": "104",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Mallorea and Riva",
-    "id": "286",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Mousebumples",
-    "id": "307",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Transnapastain",
-    "id": "353",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Crazy girl",
-    "id": "361",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Lamoni",
-    "id": "363",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Luna Amore",
-    "id": "410",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Automagfreek",
-    "id": "436",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Omigodtheykilledkenny",
-    "id": "437",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Stoklomolvi",
-    "id": "459",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Macabees",
-    "id": "491",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Aleisyr",
-    "id": "522",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Ardchoille",
-    "id": "577",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Bears Armed",
-    "id": "582",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Eluvatar",
-    "id": "673",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Charlotte Ryberg",
-    "id": "846",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Independent Planets",
-    "id": "900",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Todd McCloud",
-    "id": "932",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Kindjal",
-    "id": "1012",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Grendels",
-    "id": "1014",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Pogaria",
-    "id": "1023",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Kyrusia",
-    "id": "1089",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Goodnamesarerare",
-    "id": "1201",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "PurDunamis",
-    "id": "1234",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "DarthStassen",
-    "id": "1287",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Auralia",
-    "id": "1463",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Great Nepal",
-    "id": "1522",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Glen-Rhodes",
-    "id": "1523",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Christian Democrats",
-    "id": "1538",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Gigaverse",
-    "id": "1653",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Chedonia",
-    "id": "1912",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Kandarin",
-    "id": "2199",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Valinon",
-    "id": "2710",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Menta Lee-IL",
-    "id": "2887",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Whereisthatistan",
-    "id": "2943",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Borkistan",
-    "id": "3020",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Yaorozu",
-    "id": "3045",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Escalan Corps-Star Island",
-    "id": "3065",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Kundu",
-    "id": "3260",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Complete Bastards",
-    "id": "3285",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Look at me",
-    "id": "3626",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Old Tyrannia",
-    "id": "4108",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Ransium",
-    "id": "5109",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Farnhamia",
-    "id": "5518",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Seven by Nine",
-    "id": "5908",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Stovilium",
-    "id": "5989",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Dutchyland",
-    "id": "6003",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Pax Aurea",
-    "id": "6193",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Earth Federation",
-    "id": "6322",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Uniserve",
-    "id": "6542",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Markreich",
-    "id": "6551",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Undivulged Principles",
-    "id": "6931",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Disco Empire",
-    "id": "7421",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "G C Bakura",
-    "id": "8106",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Lakanaba",
-    "id": "8176",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Ral Ixshida",
-    "id": "8345",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Aurora Islands",
-    "id": "8785",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Despoticania",
-    "id": "10363",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Belarum",
-    "id": "10992",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Little Flowers",
-    "id": "11615",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Cavallino33",
-    "id": "12856",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Sierra Lyricalia",
-    "id": "13503",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Corsaria",
-    "id": "13522",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "G-Tech Corporation",
-    "id": "13923",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Wilkshire",
-    "id": "13959",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Edgemaster",
-    "id": "14288",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Artoonia",
-    "id": "14523",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Sunset",
-    "id": "16629",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Bananaistan",
-    "id": "17821",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Blogotopia",
-    "id": "17842",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Soops",
-    "id": "18072",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Sionis Prioratus",
-    "id": "18073",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Rubyna",
-    "id": "20857",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Topid",
-    "id": "22088",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Bothia",
-    "id": "23478",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Kalessin",
-    "id": "23952",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "McMasterdonia",
-    "id": "26706",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "New Good Order",
-    "id": "29947",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Valkalan",
-    "id": "32664",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Aston",
-    "id": "34408",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Separatist Peoples",
-    "id": "36056",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Teaberry",
-    "id": "38011",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Centauri",
-    "id": "38546",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Sciongrad",
-    "id": "42223",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Cogitation",
-    "id": "45657",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Bruce",
-    "id": "49714",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Tremalkier",
-    "id": "49715",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Lancaster of Wessex",
-    "id": "50182",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Eta Carinae",
-    "id": "56527",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "New Owningland",
-    "id": "57712",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "A mean old man",
-    "id": "65924",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Treznor",
-    "id": "69332",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Uelvan",
-    "id": "69594",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Audioslavia",
-    "id": "71274",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Mindalia",
-    "id": "72454",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Trixmonia",
-    "id": "72976",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Northern Borland",
-    "id": "73929",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "The Talisman",
-    "id": "74157",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Techno",
-    "id": "77715",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "East Borland",
-    "id": "77834",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Nation of Quebec",
-    "id": "84053",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Koffee",
-    "id": "84186",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "ABU AMMAR",
-    "id": "84592",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Muspellheim",
-    "id": "84731",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Hesperonis",
-    "id": "85215",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Anaxphonia",
-    "id": "85458",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Paradise",
-    "id": "86787",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Myrth",
-    "id": "86954",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Arkayn Stretenby",
-    "id": "90464",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "CR Oscilloscopes",
-    "id": "91051",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Wulfhelm",
-    "id": "91246",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Psypheria",
-    "id": "93310",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "A baddon",
-    "id": "93937",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Pythagosaurus",
-    "id": "95034",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "The Iron League",
-    "id": "96479",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Krioval",
-    "id": "100399",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Sentient Peoples",
-    "id": "104805",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Tenkistan",
-    "id": "105543",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Free Socialism",
-    "id": "105657",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Stalker",
-    "id": "107898",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Otaku Stratus",
-    "id": "108485",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Szczuropolis",
-    "id": "108964",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "S_diego",
-    "id": "113945",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Draconis Nightcrawlis",
-    "id": "121583",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Bright Angel",
-    "id": "123478",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Godular",
-    "id": "125829",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Eaischpnaeieacgkque Bhcieaghpodsttditf",
-    "id": "129430",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Carrasastova",
-    "id": "154193",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Mindless contempt",
-    "id": "159058",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "The-CID",
-    "id": "167885",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Tyronian Socialist State",
-    "id": "171264",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "The Grim Reaper",
-    "id": "173694",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "A Slanted Black Stripe",
-    "id": "195223",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Caelapes",
-    "id": "219817",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Australian rePublic",
-    "id": "261305",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Nuremgard",
-    "id": "302489",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Czechostan",
-    "id": "303790",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Baggieland",
-    "id": "341374",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Kyldellian Halon",
-    "id": "373091",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Merconitonitopia",
-    "id": "388476",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Imperium Anglorum",
-    "id": "407774",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Drawkland",
-    "id": "408994",
-    "S1": true,
-    "S2": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Valrknut",
-    "id": "419907",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Foucaults garden",
-    "id": "435471",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Corfad",
-    "id": "470584",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Free Joy State",
-    "id": "523779",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Wrapper",
-    "id": "527332",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Annihilators of Chan Island",
-    "id": "574661",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Kingdom of Space",
-    "id": "693777",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Nova Hollandia",
-    "id": "705549",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Montagna",
-    "id": "720154",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Vancouvia",
-    "id": "758697",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Territorio di Nessuno",
-    "id": "769420",
-    "S1": true,
-    "S2": true,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Outer Sparta",
-    "id": "846635",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Rouge Christmas State",
-    "id": "876350",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Gnejs",
-    "id": "957208",
-    "S1": true,
-    "S2": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Singapore no2",
-    "id": "967669",
-    "S1": true,
-    "S2": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Paffnia",
-    "id": "32",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Kylarnatia",
-    "id": "63",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Jakker",
-    "id": "82",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Grays Harbor",
-    "id": "311",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "The Rhein States",
-    "id": "473",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Tzo",
-    "id": "1915",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Daedra1a",
-    "id": "3004",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Tzuland",
-    "id": "3396",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Smiley Bob",
-    "id": "3811",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "YoriZ",
-    "id": "4009",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Ferrianona",
-    "id": "8268",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "GeodesicDragon",
-    "id": "11936",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Neutraligon",
-    "id": "12217",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Starblaydia",
-    "id": "12593",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Elejamie",
-    "id": "13123",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Xoriet",
-    "id": "13616",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Qvait",
-    "id": "17541",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Los Santos",
-    "id": "18983",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Naughty Slave Girls",
-    "id": "26476",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Drasnia",
-    "id": "35884",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Saltanyas",
-    "id": "70136",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "North East Somerset",
-    "id": "85647",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Kaigi",
-    "id": "102557",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Mograpelandia",
-    "id": "115090",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Theorin",
-    "id": "128013",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Abacathea",
-    "id": "137159",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Zulanka",
-    "id": "140622",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Ramaeus",
-    "id": "163369",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Zamri1138",
-    "id": "306344",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": true
-  },
-  {
-    "name": "Kaboomlandia",
-    "id": "336467",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "The Dark System",
-    "id": "411138",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Teutionia",
-    "id": "610834",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Sacara",
-    "id": "650243",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Wallenburg",
-    "id": "876502",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Caracasus",
-    "id": "983809",
-    "S2": true,
-    "S1": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "USS Monitor",
-    "id": "1062542",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Frieden-und Freudenland",
-    "id": "1085205",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Pencil Sharpeners 2",
-    "id": "1112157",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Candlewhisper Archive",
-    "id": "1120388",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Solborg",
-    "id": "1174373",
-    "S2": false,
-    "S1": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Notyoutopia",
-    "id": "1149046",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Milostein",
-    "id": "1189918",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Chan Island",
-    "id": "1225096",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": false
-  },
-  {
-    "name": "Galway-Dublin",
-    "id": "1227474",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Jutsa",
-    "id": "1235817",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Queen Yuno",
-    "id": "1262891",
-    "S2": false,
-    "S1": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Choistan",
-    "id": "1306258",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Yodle",
-    "id": "1359194",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "The Marsupial Illuminati",
-    "id": "1583601",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Helaw",
-    "id": "1599020",
-    "S2": true,
-    "S1": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Holy Oranz",
-    "id": "1604334",
-    "S2": true,
-    "S1": true,
-    "S3": false,
-    "exists": false
-  },
-  {
-    "name": "Noahs Second Country",
-    "id": "1633166",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Siwale",
-    "id": "1812634",
-    "S2": true,
-    "S1": true,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Koem Kab",
-    "id": "1838280",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Candensia",
-    "id": "2056402",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Yahlia",
-    "id": "2092409",
-    "S2": true,
-    "S1": false,
-    "S3": true,
-    "exists": true
-  },
-  {
-    "name": "Altmer Dominion",
-    "id": "2462484",
-    "S2": true,
-    "S1": false,
-    "S3": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Sedgistan",
@@ -1813,7 +41,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Archregimancy",
+    "id": "7",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Ko-oren",
@@ -1821,7 +59,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Shizensky",
+    "id": "20",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Euroslavia",
+    "id": "29",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Paffnia",
+    "id": "32",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Goobergunchia",
@@ -1829,7 +95,80 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Ballotonia",
+    "id": "38",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Sanctaria",
+    "id": "42",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Kylarnatia",
+    "id": "63",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Katganistan",
+    "id": "70",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "SalusaSecondus",
+    "id": "71",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Knootoss",
+    "id": "73",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Jakker",
+    "id": "82",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "NewTexas",
+    "id": "83",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The Blaatschapen",
@@ -1837,7 +176,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Zwangzug",
+    "id": "104",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Woonsocket",
@@ -1845,7 +194,323 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Mallorea and Riva",
+    "id": "286",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Mousebumples",
+    "id": "307",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Grays Harbor",
+    "id": "311",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Transnapastain",
+    "id": "353",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Crazy girl",
+    "id": "361",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Lamoni",
+    "id": "363",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Luna Amore",
+    "id": "410",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Riemstagrad",
+    "id": "425",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Automagfreek",
+    "id": "436",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Omigodtheykilledkenny",
+    "id": "437",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Stoklomolvi",
+    "id": "459",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Allanea",
+    "id": "465",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Rhein States",
+    "id": "473",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Macabees",
+    "id": "491",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Aleisyr",
+    "id": "522",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Ardchoille",
+    "id": "577",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Bears Armed",
+    "id": "582",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Eluvatar",
+    "id": "673",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Charlotte Ryberg",
+    "id": "846",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Independent Planets",
+    "id": "900",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Todd McCloud",
+    "id": "932",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Klaus Devestatorie",
+    "id": "955",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Mikeswill",
+    "id": "1011",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Kindjal",
+    "id": "1012",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Grendels",
+    "id": "1014",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Pogaria",
+    "id": "1023",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Kyrusia",
+    "id": "1089",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Goodnamesarerare",
+    "id": "1201",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "PurDunamis",
+    "id": "1234",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Ratateague",
+    "id": "1238",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "DarthStassen",
+    "id": "1287",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Auralia",
+    "id": "1463",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Great Nepal",
+    "id": "1522",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Glen-Rhodes",
+    "id": "1523",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Christian Democrats",
+    "id": "1538",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Avaerilon",
@@ -1853,7 +518,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Gigaverse",
+    "id": "1653",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Kelssek",
@@ -1861,7 +536,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Chedonia",
+    "id": "1912",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Tzo",
+    "id": "1915",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Kandarin",
+    "id": "2199",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Sasten",
@@ -1869,7 +572,98 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Valinon",
+    "id": "2710",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Menta Lee-IL",
+    "id": "2887",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Whereisthatistan",
+    "id": "2943",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Daedra1a",
+    "id": "3004",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Borkistan",
+    "id": "3020",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Yaorozu",
+    "id": "3045",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Escalan Corps-Star Island",
+    "id": "3065",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Kundu",
+    "id": "3260",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Complete Bastards",
+    "id": "3285",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Tzuland",
+    "id": "3396",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Cromulent Peoples",
@@ -1877,7 +671,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Look at me",
+    "id": "3626",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Smiley Bob",
+    "id": "3811",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "YoriZ",
+    "id": "4009",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Particle",
@@ -1885,7 +707,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Meropis",
+    "id": "4089",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Old Tyrannia",
+    "id": "4108",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Aenglaland",
@@ -1893,7 +734,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Giovenith",
@@ -1901,7 +743,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Ransium",
+    "id": "5109",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Farnhamia",
+    "id": "5518",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Saugeen",
@@ -1909,7 +770,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Seven by Nine",
+    "id": "5908",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Stovilium",
+    "id": "5989",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Dutchyland",
+    "id": "6003",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Zurkerx",
@@ -1917,7 +806,278 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Pax Aurea",
+    "id": "6193",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Earth Federation",
+    "id": "6322",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Uniserve",
+    "id": "6542",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Markreich",
+    "id": "6551",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Undivulged Principles",
+    "id": "6931",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Bhang Bhang Duc",
+    "id": "7372",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Disco Empire",
+    "id": "7421",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "G C Bakura",
+    "id": "8106",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Lakanaba",
+    "id": "8176",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Ferrianona",
+    "id": "8268",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Ral Ixshida",
+    "id": "8345",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Aurora Islands",
+    "id": "8785",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Tim-Opolis",
+    "id": "9800",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Despoticania",
+    "id": "10363",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Belarum",
+    "id": "10992",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Little Flowers",
+    "id": "11615",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "GeodesicDragon",
+    "id": "11936",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Neutraligon",
+    "id": "12217",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Starblaydia",
+    "id": "12593",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Cavallino33",
+    "id": "12856",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Elejamie",
+    "id": "13123",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Southland",
+    "id": "13221",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Sierra Lyricalia",
+    "id": "13503",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Corsaria",
+    "id": "13522",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Xoriet",
+    "id": "13616",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "G-Tech Corporation",
+    "id": "13923",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Wilkshire",
+    "id": "13959",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Edgemaster",
+    "id": "14288",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Artoonia",
+    "id": "14523",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Sunset",
+    "id": "16629",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Koda-Land",
@@ -1925,7 +1085,116 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Qvait",
+    "id": "17541",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Bananaistan",
+    "id": "17821",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Blogotopia",
+    "id": "17842",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Soops",
+    "id": "18072",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Sionis Prioratus",
+    "id": "18073",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Los Santos",
+    "id": "18983",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Rubyna",
+    "id": "20857",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Topid",
+    "id": "22088",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Bothia",
+    "id": "23478",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Kalessin",
+    "id": "23952",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Naughty Slave Girls",
+    "id": "26476",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "McMasterdonia",
+    "id": "26706",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Almonaster Nuevo",
@@ -1933,7 +1202,53 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Good Order",
+    "id": "29947",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Valkalan",
+    "id": "32664",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Aston",
+    "id": "34408",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Drasnia",
+    "id": "35884",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Separatist Peoples",
+    "id": "36056",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Esternial",
@@ -1941,7 +1256,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Teaberry",
+    "id": "38011",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Centauri",
+    "id": "38546",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Alice Gardens",
@@ -1949,7 +1283,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Wopruthien",
@@ -1957,7 +1292,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Sciongrad",
+    "id": "42223",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Duxburian Union",
@@ -1965,7 +1310,53 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Cogitation",
+    "id": "45657",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "HeyZay",
+    "id": "48351",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Bruce",
+    "id": "49714",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Tremalkier",
+    "id": "49715",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Lancaster of Wessex",
+    "id": "50182",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The Salaxalans",
@@ -1973,7 +1364,62 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Eta Carinae",
+    "id": "56527",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Owningland",
+    "id": "57712",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "A mean old man",
+    "id": "65924",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Treznor",
+    "id": "69332",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Uelvan",
+    "id": "69594",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Saltanyas",
+    "id": "70136",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Former English Colony",
@@ -1981,7 +1427,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Audioslavia",
+    "id": "71274",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Pope Hope",
@@ -1989,7 +1445,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Mindalia",
+    "id": "72454",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Trixmonia",
+    "id": "72976",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Bears Armed Mission",
@@ -1997,7 +1472,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Northern Borland",
+    "id": "73929",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Kiasu-ism",
@@ -2005,7 +1490,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Talisman",
+    "id": "74157",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Davidianian",
@@ -2013,7 +1508,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Trotterdam",
@@ -2021,7 +1517,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Techno",
+    "id": "77715",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "East Borland",
+    "id": "77834",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Safj",
@@ -2029,7 +1544,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Midlands",
+    "id": "78420",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Ziedrich",
+    "id": "78644",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Santheres",
@@ -2037,7 +1571,143 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Nation of Quebec",
+    "id": "84053",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Koffee",
+    "id": "84186",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "ABU AMMAR",
+    "id": "84592",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Muspellheim",
+    "id": "84731",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Hesperonis",
+    "id": "85215",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Anaxphonia",
+    "id": "85458",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "North East Somerset",
+    "id": "85647",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "9003",
+    "id": "85949",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Paradise",
+    "id": "86787",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Myrth",
+    "id": "86954",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Arkayn Stretenby",
+    "id": "90464",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "CR Oscilloscopes",
+    "id": "91051",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Wulfhelm",
+    "id": "91246",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Psypheria",
+    "id": "93310",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "A baddon",
+    "id": "93937",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "ColdHeartedBastards",
@@ -2045,7 +1715,53 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Pythagosaurus",
+    "id": "95034",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "The Iron League",
+    "id": "96479",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Unibotian WA Mission",
+    "id": "96938",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Krioval",
+    "id": "100399",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Kaigi",
+    "id": "102557",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Macisikan",
@@ -2053,7 +1769,71 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Attempted Socialism",
+    "id": "104081",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Sentient Peoples",
+    "id": "104805",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Tenkistan",
+    "id": "105543",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Free Socialism",
+    "id": "105657",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "The Stalker",
+    "id": "107898",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Otaku Stratus",
+    "id": "108485",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Szczuropolis",
+    "id": "108964",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Tierra del Queso",
@@ -2061,7 +1841,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "The Sinistress",
+    "id": "111331",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "S_diego",
+    "id": "113945",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Mograpelandia",
+    "id": "115090",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Cashdeer",
@@ -2069,7 +1877,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Wentland",
+    "id": "120300",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Draconis Nightcrawlis",
+    "id": "121583",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Bright Angel",
+    "id": "123478",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "San Jose",
@@ -2077,7 +1913,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Godular",
+    "id": "125829",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Theorin",
+    "id": "128013",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Eaischpnaeieacgkque Bhcieaghpodsttditf",
+    "id": "129430",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Geidi Centauri Prime",
+    "id": "129505",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The New California Republic",
@@ -2085,7 +1958,98 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Kractero",
+    "id": "136467",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Abacathea",
+    "id": "137159",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Benedicion",
+    "id": "140432",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Zulanka",
+    "id": "140622",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Carrasastova",
+    "id": "154193",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Mindless contempt",
+    "id": "159058",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Ramaeus",
+    "id": "163369",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The-CID",
+    "id": "167885",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Tyronian Socialist State",
+    "id": "171264",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "The Grim Reaper",
+    "id": "173694",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Electrum",
@@ -2093,7 +2057,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Gruenberg",
@@ -2101,7 +2066,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Quintessence of Dust",
+    "id": "195086",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "A Slanted Black Stripe",
+    "id": "195223",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Caelapes",
+    "id": "219817",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Tsunamy",
@@ -2109,7 +2102,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Verdant Haven",
@@ -2117,7 +2111,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Australian rePublic",
+    "id": "261305",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Treadwellia",
@@ -2125,7 +2129,116 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Nuremgard",
+    "id": "302489",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Czechostan",
+    "id": "303790",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Zamri1138",
+    "id": "306344",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Kaboomlandia",
+    "id": "336467",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Baggieland",
+    "id": "341374",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Kyldellian Halon",
+    "id": "373091",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Merconitonitopia",
+    "id": "388476",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Imperium Anglorum",
+    "id": "407774",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Drawkland",
+    "id": "408994",
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Dark System",
+    "id": "411138",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Valrknut",
+    "id": "419907",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Foucaults garden",
+    "id": "435471",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Golgothastan",
@@ -2133,7 +2246,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Corfad",
+    "id": "470584",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Alistia",
@@ -2141,7 +2264,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Laudesia",
@@ -2149,7 +2273,62 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "VIPERMARTIAN",
+    "id": "519118",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Desperaux",
+    "id": "519229",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Free Joy State",
+    "id": "523779",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Wrapper",
+    "id": "527332",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "ErVaReAn rEpUbLiC",
+    "id": "554012",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Annihilators of Chan Island",
+    "id": "574661",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Vando0sa",
@@ -2157,7 +2336,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "The Imperium Collectives",
+    "id": "589129",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Northern Socialist States",
+    "id": "599877",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Teutionia",
+    "id": "610834",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Sacara",
+    "id": "650243",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Lislandia",
@@ -2165,7 +2381,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Kingdom of Space",
+    "id": "693777",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Nova Hollandia",
+    "id": "705549",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Montagna",
+    "id": "720154",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Racoda",
@@ -2173,7 +2417,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Vancouvia",
+    "id": "758697",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Territorio di Nessuno",
+    "id": "769420",
+    "S1": true,
+    "S2": true,
+    "S3": false,
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "New Chilokver",
+    "id": "772446",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The IGER Civilization",
@@ -2181,7 +2453,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Outer Sparta",
+    "id": "846635",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Rouge Christmas State",
+    "id": "876350",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Wallenburg",
+    "id": "876502",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Gnejs",
+    "id": "957208",
+    "S1": true,
+    "S2": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "New Lakemba",
@@ -2189,7 +2498,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Singapore no2",
+    "id": "967669",
+    "S1": true,
+    "S2": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Caracasus",
+    "id": "983809",
+    "S2": true,
+    "S1": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "The Sinclarian Provinces",
@@ -2197,7 +2525,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "USS Monitor",
+    "id": "1062542",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Frieden-und Freudenland",
+    "id": "1085205",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Infinitta",
+    "id": "1098080",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Felpolandia",
@@ -2205,7 +2561,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Pencil Sharpeners 2",
+    "id": "1112157",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Candlewhisper Archive",
+    "id": "1120388",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Creeperopolis",
@@ -2213,7 +2588,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Pallaith",
@@ -2221,7 +2597,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Notyoutopia",
+    "id": "1149046",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Solborg",
+    "id": "1174373",
+    "S2": false,
+    "S1": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Milostein",
+    "id": "1189918",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Valentine Z",
@@ -2229,7 +2633,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Le Libertia",
@@ -2237,7 +2642,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Chan Island",
+    "id": "1225096",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Galway-Dublin",
+    "id": "1227474",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Jutsa",
+    "id": "1235817",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Queen Yuno",
+    "id": "1262891",
+    "S2": false,
+    "S1": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Sunto",
@@ -2245,7 +2687,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Choistan",
+    "id": "1306258",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "The Atlae Isles",
+    "id": "1308570",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "SherpDaWerp",
@@ -2253,7 +2714,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Yodle",
+    "id": "1359194",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Herya",
+    "id": "1391095",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Chingis",
+    "id": "1395293",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Roavin",
@@ -2261,7 +2750,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Kaschovia",
@@ -2269,7 +2759,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Land Without Shrimp",
@@ -2277,7 +2768,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Aguaria Major",
@@ -2285,7 +2777,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Merni",
+    "id": "1460455",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The Grene Knyght",
@@ -2293,7 +2795,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "The Holy Principality of Saint Mark",
@@ -2301,7 +2804,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Daarwyrth",
@@ -2309,7 +2813,62 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Raghallaigh",
+    "id": "1556925",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Marsupial Illuminati",
+    "id": "1583601",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Atsvea",
+    "id": "1596034",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Helaw",
+    "id": "1599020",
+    "S2": true,
+    "S1": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Holy Oranz",
+    "id": "1604334",
+    "S2": true,
+    "S1": true,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Noahs Second Country",
+    "id": "1633166",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "ATLANTIARIV",
@@ -2317,7 +2876,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Shwe Tu Colony",
@@ -2325,7 +2885,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Tinhampton",
@@ -2333,7 +2894,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Greater Eireann",
@@ -2341,7 +2903,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Xagill",
@@ -2349,7 +2912,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Siwale",
+    "id": "1812634",
+    "S2": true,
+    "S1": true,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Koem Kab",
+    "id": "1838280",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Jar Wattinree",
+    "id": "1846773",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Lord Dominator",
@@ -2357,7 +2948,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Fauxia",
@@ -2365,7 +2957,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "New Visayan Islands",
@@ -2373,7 +2966,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Quebecshire",
+    "id": "1997833",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Greater Cesnica",
@@ -2381,7 +2984,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Candensia",
+    "id": "2056402",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Kwaj",
@@ -2389,7 +3002,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Heavens Reach",
@@ -2397,7 +3011,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Yahlia",
+    "id": "2092409",
+    "S2": true,
+    "S1": false,
+    "S3": true,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Honeydewistania",
@@ -2405,7 +3029,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Genbu Kaiden",
+    "id": "2209071",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "His Excellency",
@@ -2413,7 +3047,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
   },
   {
     "name": "Omnistria",
@@ -2421,7 +3056,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Aerilia",
@@ -2429,7 +3065,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Turbeaux",
@@ -2437,7 +3074,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Canyamel",
@@ -2445,7 +3083,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Kuriko",
@@ -2453,7 +3092,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Erynia and Draconia",
@@ -2461,7 +3101,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Comrade Occitania",
+    "id": "2376891",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Altmer Dominion",
+    "id": "2462484",
+    "S2": true,
+    "S1": false,
+    "S3": false,
+    "exists": false,
+    "S4": false
+  },
+  {
+    "name": "Haku",
+    "id": "2463238",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Terrabod",
+    "id": "2475878",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Concrete Slab",
@@ -2469,7 +3146,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Shibutani",
@@ -2477,7 +3155,26 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Seanat",
+    "id": "2580440",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Unshleepd",
+    "id": "2588732",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Krusavich",
@@ -2485,7 +3182,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Jehenna",
@@ -2493,7 +3191,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Ethnon",
@@ -2501,7 +3200,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Typica",
+    "id": "2716004",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Makasta",
+    "id": "2740432",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Eraver",
+    "id": "2748666",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Morover",
@@ -2509,7 +3236,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Hulldom",
@@ -2517,7 +3245,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Walfo",
+    "id": "2973365",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "United Calanworie",
@@ -2525,7 +3263,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Refuge Isle",
@@ -2533,7 +3272,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Maowi",
@@ -2541,7 +3281,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Andusre",
@@ -2549,7 +3290,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Barfleur",
+    "id": "3084570",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Sylh Alanor",
@@ -2557,7 +3308,17 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "Simone Republic",
+    "id": "3241375",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Dabarastan",
@@ -2565,7 +3326,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": false
+    "exists": false,
+    "S4": false
   },
   {
     "name": "Jim the Baptist",
@@ -2573,7 +3335,8 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Giovanniland",
@@ -2581,7 +3344,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Varanius",
+    "id": "3310262",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New England INC",
+    "id": "3329829",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Ostrovskiy",
+    "id": "3363333",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Westinor",
@@ -2589,7 +3380,35 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Picairn",
+    "id": "3505914",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Ankhalic Vaspriot",
+    "id": "3544546",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Mishian Legion",
+    "id": "3599392",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Minskiev",
@@ -2597,7 +3416,44 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Socialist Platypus",
+    "id": "3654434",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Kowloon Bay",
+    "id": "3722316",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Pineappleistania",
+    "id": "3744778",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Barlyy",
+    "id": "3756335",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   },
   {
     "name": "Bankowiata",
@@ -2605,6 +3461,88 @@
     "S3": true,
     "S1": false,
     "S2": false,
-    "exists": true
+    "exists": true,
+    "S4": false
+  },
+  {
+    "name": "PhilTech",
+    "id": "3884666",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "New Anarchisticstan",
+    "id": "3972301",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Osheiga",
+    "id": "4183453",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Umbratellus",
+    "id": "4299784",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Millenhaal",
+    "id": "4449121",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Improper Classifications",
+    "id": "4743971",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "West Barack and East Obama",
+    "id": "4747176",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "The Ice States",
+    "id": "4879131",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Haymarket Riot",
+    "id": "5669042",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
   }
 ]
