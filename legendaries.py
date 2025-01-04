@@ -24,7 +24,7 @@ def main():
             print (cte)
             legdata['changes'].append({
                 "name": legendary['name'],
-                "seasons": [legendary['S1'], legendary['S2'], legendary['S3']],
+                "seasons": [legendary['S1'], legendary['S2'], legendary['S3'], legendary['S4']],
                 "old": legendary['exists'],
                 "new": not cte
             })
