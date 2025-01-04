@@ -16,13 +16,7 @@
         const activityRes = await fetch('/files/Legendaries.json')
         let json = await activityRes.json()
         json.sort((a, b) => {
-          if (b.exists && !a.exists) {
-            return -1
-          } else if (!b.exists && a.exists) {
-            return 1
-          } else {
-            return 0
-          }
+          return parseInt(a.id, 10) - parseInt(b.id, 10)
         })
         const table = document.querySelector('table')
         table.innerHTML = ''
