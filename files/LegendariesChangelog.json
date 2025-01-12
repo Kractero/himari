@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-01-11",
+    "changes": [
+      {
+        "name": "Euroslavia",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-01-09",
     "changes": [
       {
