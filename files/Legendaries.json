@@ -2337,7 +2337,7 @@
     "S1": false,
     "S2": false,
     "exists": true,
-    "S4": false
+    "S4": true
   },
   {
     "name": "The Imperium Collectives",
@@ -3530,6 +3530,15 @@
   {
     "name": "The Ice States",
     "id": "4879131",
+    "S1": false,
+    "S2": false,
+    "S3": false,
+    "exists": true,
+    "S4": true
+  },
+  {
+    "name": "Magecastle Embassy Building A5",
+    "id": "4893469",
     "S1": false,
     "S2": false,
     "S3": false,
