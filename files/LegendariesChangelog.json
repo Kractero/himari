@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-01-22",
+    "changes": [
+      {
+        "name": "Vancouvia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-01-13",
     "changes": [
       {
