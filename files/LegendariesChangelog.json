@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-01-23",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Vancouvia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-01-22",
     "changes": [
       {
