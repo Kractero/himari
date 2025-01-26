@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-01-25",
+    "changes": [
+      {
+        "name": "Turbeaux",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-01-23",
     "changes": [
       {
