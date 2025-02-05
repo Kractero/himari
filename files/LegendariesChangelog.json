@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-02-04",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-02-02",
     "changes": [
       {
