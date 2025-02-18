@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-02-17",
+    "changes": [
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-02-13",
     "changes": [
       {
