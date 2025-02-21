@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025-02-20",
+    "changes": [
+      {
+        "name": "The Marsupial Illuminati",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Atsvea",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Candensia",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-02-17",
     "changes": [
       {
