@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-02-22",
+    "changes": [
+      {
+        "name": "Daarwyrth",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Candensia",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-02-20",
     "changes": [
       {
