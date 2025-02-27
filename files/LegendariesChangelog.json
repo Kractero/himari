@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-02-26",
+    "changes": [
+      {
+        "name": "Omigodtheykilledkenny",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "9003",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-02-24",
     "changes": [
       {
