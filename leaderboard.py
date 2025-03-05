@@ -42,6 +42,7 @@ for name in top100names:
         category_counts = {}
         season_counts = {}
         category_season_counts = {}
+        legendary_value = 0
 
         cards = root.findall('.//CARD')
         if cards is not None:
@@ -68,6 +69,9 @@ for name in top100names:
                 else:
                     category_season_counts[key] = 1
 
+                if category == 'Legendary':
+                    legendary_value += float(card.find('MARKET_VALUE').text)
+
             junk_value = (
                 (category_counts.get('Legendary', 0) * 1 +
                 category_counts.get('Epic', 0) * 0.5 +
@@ -84,6 +88,7 @@ for name in top100names:
             deck['Card Count'] = int(deck_info.find('NUM_CARDS').text)
             deck['Deck Capacity'] = int(deck_info.find('DECK_CAPACITY_RAW').text)
 
+        deck['Legendary Value'] = round(legendary_value / float(deck_info.find('DECK_VALUE').text) * 100, 2)
         deck.update(category_counts)
         deck.update(season_counts)
         deck.update(category_season_counts)
