@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-03-07",
+    "changes": [
+      {
+        "name": "Improper Classifications",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-03-06",
     "changes": [
       {
