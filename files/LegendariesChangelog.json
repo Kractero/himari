@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-03-10",
+    "changes": [
+      {
+        "name": "Esternial",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-03-09",
     "changes": [
       {
