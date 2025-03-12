@@ -88,7 +88,8 @@ for name in top100names:
             deck['Card Count'] = int(deck_info.find('NUM_CARDS').text)
             deck['Deck Capacity'] = int(deck_info.find('DECK_CAPACITY_RAW').text)
 
-        deck['Legendary Value'] = round(legendary_value / float(deck_info.find('DECK_VALUE').text) * 100, 2)
+        deck['Legendary Value Raw'] = legendary_value
+        deck['Legendary Value'] = min(100.0, round(legendary_value / float(deck_info.find('DECK_VALUE').text) * 100, 2))
         deck.update(category_counts)
         deck.update(season_counts)
         deck.update(category_season_counts)
