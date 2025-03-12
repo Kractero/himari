@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-03-11",
+    "changes": [
+      {
+        "name": "Ardchoille",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-03-10",
     "changes": [
       {
