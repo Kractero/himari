@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-03-13",
+    "changes": [
+      {
+        "name": "Ramaeus",
+        "seasons": [
+          false,
+          true,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Heavens Reach",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-03-11",
     "changes": [
       {
