@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-03-21",
+    "changes": [
+      {
+        "name": "Bears Armed",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-03-19",
     "changes": [
       {
