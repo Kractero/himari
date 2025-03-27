@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-03-26",
+    "changes": [
+      {
+        "name": "Rubyna",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-03-25",
     "changes": [
       {
