@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-04-01",
+    "changes": [
+      {
+        "name": "Mousebumples",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-03-30",
     "changes": [
       {
