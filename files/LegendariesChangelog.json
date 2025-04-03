@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-04-02",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-04-01",
     "changes": [
       {
