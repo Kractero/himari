@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-04-22",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-04-21",
     "changes": [
       {
