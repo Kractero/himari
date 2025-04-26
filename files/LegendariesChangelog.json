@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-04-25",
+    "changes": [
+      {
+        "name": "Magecastle Embassy Building A5",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-04-23",
     "changes": [
       {
