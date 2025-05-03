@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-05-02",
+    "changes": [
+      {
+        "name": "Candlewhisper Archive",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-04-30",
     "changes": [
       {
