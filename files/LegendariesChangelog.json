@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-05-04",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Quintessence of Dust",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-05-03",
     "changes": [
       {
