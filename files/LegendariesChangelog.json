@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-05-25",
+    "changes": [
+      {
+        "name": "Separatist Peoples",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-05-24",
     "changes": [
       {
