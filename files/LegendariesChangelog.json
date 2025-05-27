@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-05-26",
+    "changes": [
+      {
+        "name": "USS Monitor",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-05-25",
     "changes": [
       {
