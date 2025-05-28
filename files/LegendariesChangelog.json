@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-05-27",
+    "changes": [
+      {
+        "name": "Greater Cesnica",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-05-26",
     "changes": [
       {
