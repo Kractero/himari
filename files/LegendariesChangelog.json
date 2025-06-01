@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-05-31",
+    "changes": [
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-05-29",
     "changes": [
       {
