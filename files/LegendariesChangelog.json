@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-06-02",
+    "changes": [
+      {
+        "name": "Westinor",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-05-31",
     "changes": [
       {
