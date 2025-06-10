@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-06-09",
+    "changes": [
+      {
+        "name": "Xoriet",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-06-07",
     "changes": [
       {
