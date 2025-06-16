@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-06-15",
+    "changes": [
+      {
+        "name": "Kandarin",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-06-14",
     "changes": [
       {
