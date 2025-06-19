@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-06-18",
+    "changes": [
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-06-15",
     "changes": [
       {
