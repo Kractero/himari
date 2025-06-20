@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-06-19",
+    "changes": [
+      {
+        "name": "Unibotian WA Mission",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-06-18",
     "changes": [
       {
