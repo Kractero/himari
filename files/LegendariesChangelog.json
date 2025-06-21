@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-06-20",
+    "changes": [
+      {
+        "name": "The Free Joy State",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "New Kowloon Bay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-06-19",
     "changes": [
       {
