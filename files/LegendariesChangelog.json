@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025-06-25",
+    "changes": [
+      {
+        "name": "Bears Armed",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Heavens Reach",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-06-24",
     "changes": [
       {
