@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-06-27",
+    "changes": [
+      {
+        "name": "Sylh Alanor",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-06-25",
     "changes": [
       {
