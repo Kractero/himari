@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-06-30",
+    "changes": [
+      {
+        "name": "The Rhein States",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Little Flowers",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-06-27",
     "changes": [
       {
