@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-07-07",
+    "changes": [
+      {
+        "name": "Whereisthatistan",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-04",
     "changes": [
       {
