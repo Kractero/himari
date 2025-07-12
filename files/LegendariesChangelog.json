@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-07-11",
+    "changes": [
+      {
+        "name": "Woonsocket",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-08",
     "changes": [
       {
