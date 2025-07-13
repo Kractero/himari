@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-07-12",
+    "changes": [
+      {
+        "name": "Woonsocket",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Bears Armed Mission",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-07-11",
     "changes": [
       {
