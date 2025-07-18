@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-07-17",
+    "changes": [
+      {
+        "name": "Alice Gardens",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-14",
     "changes": [
       {
