@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-07-25",
+    "changes": [
+      {
+        "name": "The Free Joy State",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-23",
     "changes": [
       {
