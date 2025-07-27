@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-07-26",
+    "changes": [
+      {
+        "name": "PhilTech",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-25",
     "changes": [
       {
