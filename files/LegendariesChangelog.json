@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-07-27",
+    "changes": [
+      {
+        "name": "Giovenith",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Magecastle Embassy Building A5",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-07-26",
     "changes": [
       {
