@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-08-02",
+    "changes": [
+      {
+        "name": "HeyZay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Heavens Reach",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-07-27",
     "changes": [
       {
