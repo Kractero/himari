@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-08-09",
+    "changes": [
+      {
+        "name": "Atsvea",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-08-07",
     "changes": [
       {
