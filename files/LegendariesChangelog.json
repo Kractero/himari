@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-08-18",
+    "changes": [
+      {
+        "name": "HeyZay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Unibotian WA Mission",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-08-16",
     "changes": [
       {
