@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-08-26",
+    "changes": [
+      {
+        "name": "Alistia",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-08-21",
     "changes": [
       {
