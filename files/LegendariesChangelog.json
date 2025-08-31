@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-08-30",
+    "changes": [
+      {
+        "name": "Benedicion",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "PhilTech",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-08-28",
     "changes": [
       {
