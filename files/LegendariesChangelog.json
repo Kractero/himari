@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-09-10",
+    "changes": [
+      {
+        "name": "Benedicion",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Erynia and Draconia",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-09-09",
     "changes": [
       {
