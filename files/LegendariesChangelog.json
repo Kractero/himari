@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-09-12",
+    "changes": [
+      {
+        "name": "Meropis",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-09-10",
     "changes": [
       {
