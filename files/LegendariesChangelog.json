@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-09-15",
+    "changes": [
+      {
+        "name": "HeyZay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-09-12",
     "changes": [
       {
