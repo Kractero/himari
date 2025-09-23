@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-09-22",
+    "changes": [
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-09-17",
     "changes": [
       {
