@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-09-29",
+    "changes": [
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-09-23",
     "changes": [
       {
