@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-10-10",
+    "changes": [
+      {
+        "name": "Giovenith",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-10-08",
     "changes": [
       {
