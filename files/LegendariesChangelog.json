@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025-10-21",
+    "changes": [
+      {
+        "name": "Yaorozu",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Sacara",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-10-19",
     "changes": [
       {
