@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-10-26",
+    "changes": [
+      {
+        "name": "Chingis",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Jar Wattinree",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-10-24",
     "changes": [
       {
