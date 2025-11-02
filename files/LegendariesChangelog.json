@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-11-01",
+    "changes": [
+      {
+        "name": "Benedicion",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-10-31",
     "changes": [
       {
