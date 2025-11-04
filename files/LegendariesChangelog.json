@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-11-03",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-11-01",
     "changes": [
       {
