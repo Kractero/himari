@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-11-07",
+    "changes": [
+      {
+        "name": "Vando0sa",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Racoda",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-11-05",
     "changes": [
       {
