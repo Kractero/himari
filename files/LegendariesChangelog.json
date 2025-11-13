@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-11-12",
+    "changes": [
+      {
+        "name": "Wallenburg",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Eraver",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-11-11",
     "changes": [
       {
