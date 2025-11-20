@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-11-19",
+    "changes": [
+      {
+        "name": "Wrapper",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Eraver",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-11-18",
     "changes": [
       {
