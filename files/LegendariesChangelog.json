@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-11-20",
+    "changes": [
+      {
+        "name": "Turbeaux",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Erynia and Draconia",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-11-19",
     "changes": [
       {
