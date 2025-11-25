@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-11-24",
+    "changes": [
+      {
+        "name": "Whereisthatistan",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-11-20",
     "changes": [
       {
