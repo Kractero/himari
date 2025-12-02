@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-12-01",
+    "changes": [
+      {
+        "name": "Chan Island",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-11-28",
     "changes": [
       {
