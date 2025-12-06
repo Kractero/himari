@@ -1,5 +1,43 @@
 [
   {
+    "date": "2025-12-05",
+    "changes": [
+      {
+        "name": "Quintessence of Dust",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Racoda",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Erynia and Draconia",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-12-03",
     "changes": [
       {
