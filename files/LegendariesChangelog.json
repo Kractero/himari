@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-12-18",
+    "changes": [
+      {
+        "name": "The Atlae Isles",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Kuriko",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-12-16",
     "changes": [
       {
