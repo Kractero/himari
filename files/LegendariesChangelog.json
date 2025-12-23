@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-12-22",
+    "changes": [
+      {
+        "name": "Sentient Peoples",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-12-21",
     "changes": [
       {
