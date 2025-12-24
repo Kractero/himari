@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-12-23",
+    "changes": [
+      {
+        "name": "Mograpelandia",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2025-12-22",
     "changes": [
       {
