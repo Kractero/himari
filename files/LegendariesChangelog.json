@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-01-04",
+    "changes": [
+      {
+        "name": "Whereisthatistan",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Barlyy",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2025-12-31",
     "changes": [
       {
