@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-01-09",
+    "changes": [
+      {
+        "name": "Quintessence of Dust",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-01-07",
     "changes": [
       {
