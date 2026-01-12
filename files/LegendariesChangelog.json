@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-01-11",
+    "changes": [
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-01-09",
     "changes": [
       {
