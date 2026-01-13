@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-01-12",
+    "changes": [
+      {
+        "name": "Attempted Socialism",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-01-11",
     "changes": [
       {
