@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-01-23",
+    "changes": [
+      {
+        "name": "Kingdom of Space",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-01-22",
     "changes": [
       {
