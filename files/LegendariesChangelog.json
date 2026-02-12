@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-02-11",
+    "changes": [
+      {
+        "name": "Transnapastain",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Giovenith",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Sylh Alanor",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-02-08",
     "changes": [
       {
