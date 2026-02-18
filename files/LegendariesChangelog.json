@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-02-17",
+    "changes": [
+      {
+        "name": "Glen-Rhodes",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-02-16",
     "changes": [
       {
