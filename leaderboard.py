@@ -89,7 +89,13 @@ for name in top100names:
             deck['Deck Capacity'] = int(deck_info.find('DECK_CAPACITY_RAW').text)
 
         deck['Legendary Value Raw'] = round(legendary_value, 2)
-        deck['Legendary Value'] = min(100.0, round(legendary_value / float(deck_info.find('DECK_VALUE').text) * 100, 2))
+        deck_value = float(deck_info.find('DECK_VALUE').text)
+        
+        if deck_value == 0:
+            deck['Legendary Value'] = 0.0
+        else:
+            percent = round(legendary_value / deck_value * 100, 2)
+            deck['Legendary Value'] = min(100.0, percent)
         deck.update(category_counts)
         deck.update(season_counts)
         deck.update(category_season_counts)
