@@ -83,10 +83,17 @@ for name in top100names:
 
         deck_info = root.find('.//INFO')
         if deck_info is not None:
-            deck['Bank'] = float(deck_info.find('BANK').text)
-            deck['Deck Value'] = float(deck_info.find('DECK_VALUE').text)
-            deck['Card Count'] = int(deck_info.find('NUM_CARDS').text)
-            deck['Deck Capacity'] = int(deck_info.find('DECK_CAPACITY_RAW').text)
+            if deck_info.find('BANK') is not None:
+                deck['Bank'] = float(deck_info.find('BANK').text)
+        
+            if deck_info.find('DECK_VALUE') is not None:
+                deck['Deck Value'] = float(deck_info.find('DECK_VALUE').text)
+        
+            if deck_info.find('NUM_CARDS') is not None:
+                deck['Card Count'] = int(deck_info.find('NUM_CARDS').text)
+        
+            if deck_info.find('DECK_CAPACITY_RAW') is not None:
+                deck['Deck Capacity'] = int(deck_info.find('DECK_CAPACITY_RAW').text)
 
         deck['Legendary Value Raw'] = round(legendary_value, 2)
         deck_value = float(deck_info.find('DECK_VALUE').text)
