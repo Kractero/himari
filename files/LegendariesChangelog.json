@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-02-26",
+    "changes": [
+      {
+        "name": "Daarwyrth",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-02-21",
     "changes": [
       {
