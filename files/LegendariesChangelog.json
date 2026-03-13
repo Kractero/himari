@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-12",
+    "changes": [
+      {
+        "name": "Tyronian Socialist State",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-03-08",
     "changes": [
       {
