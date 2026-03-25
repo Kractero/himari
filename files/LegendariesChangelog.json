@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-03-24",
+    "changes": [
+      {
+        "name": "The Rouge Christmas State",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-03-20",
     "changes": [
       {
