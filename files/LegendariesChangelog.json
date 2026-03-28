@@ -1,5 +1,153 @@
 [
   {
+    "date": "2026-03-27",
+    "changes": [
+      {
+        "name": "Luna Amore",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Independent Planets",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Xoriet",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Teaberry",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Salaxalans",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Saltanyas",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "A Slanted Black Stripe",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Frieden-und Freudenland",
+        "seasons": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Refuge Isle",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Sylh Alanor",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Pineappleistania",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Ice States",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-03-24",
     "changes": [
       {
