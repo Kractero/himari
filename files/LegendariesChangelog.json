@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-03-30",
+    "changes": [
+      {
+        "name": "Independent Planets",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "YoriZ",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Saltanyas",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Alistia",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Roavin",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-03-29",
     "changes": [
       {
