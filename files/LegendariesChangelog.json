@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-04-11",
+    "changes": [
+      {
+        "name": "McMasterdonia",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Atlae Isles",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-04-09",
     "changes": [
       {
