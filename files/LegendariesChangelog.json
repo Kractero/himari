@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-04-12",
+    "changes": [
+      {
+        "name": "The Atlae Isles",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-04-11",
     "changes": [
       {
