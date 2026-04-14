@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-04-13",
+    "changes": [
+      {
+        "name": "Eluvatar",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "McMasterdonia",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-04-12",
     "changes": [
       {
