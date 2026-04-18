@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-04-17",
+    "changes": [
+      {
+        "name": "New Kowloon Bay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-04-15",
     "changes": [
       {
