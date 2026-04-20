@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-04-19",
+    "changes": [
+      {
+        "name": "Sierra Lyricalia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-04-18",
     "changes": [
       {
