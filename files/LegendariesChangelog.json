@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-04-30",
+    "changes": [
+      {
+        "name": "Dutchyland",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-04-26",
     "changes": [
       {
