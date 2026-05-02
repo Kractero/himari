@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-01",
+    "changes": [
+      {
+        "name": "Desperaux",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-04-30",
     "changes": [
       {
