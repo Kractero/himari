@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-04",
+    "changes": [
+      {
+        "name": "Eta Carinae",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-05-02",
     "changes": [
       {
