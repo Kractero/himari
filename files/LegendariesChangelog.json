@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-05-05",
+    "changes": [
+      {
+        "name": "Luna Amore",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Greater Cesnica",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-05-04",
     "changes": [
       {
