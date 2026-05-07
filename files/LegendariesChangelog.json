@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-06",
+    "changes": [
+      {
+        "name": "Luna Amore",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-05-05",
     "changes": [
       {
