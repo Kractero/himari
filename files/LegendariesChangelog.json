@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-09",
+    "changes": [
+      {
+        "name": "Teutionia",
+        "seasons": [
+          false,
+          true,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-05-06",
     "changes": [
       {
