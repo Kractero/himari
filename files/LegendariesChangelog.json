@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-16",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-05-13",
     "changes": [
       {
