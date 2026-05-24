@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-23",
+    "changes": [
+      {
+        "name": "HeyZay",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-05-20",
     "changes": [
       {
