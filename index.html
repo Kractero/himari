@@ -109,45 +109,36 @@
           const row = document.createElement('tr')
           let rowStr = `<tr><td></td>`
           validHeaders.forEach(key => {
+            const rawValue = deck[key] ? parseInt(deck[key]) : 0
+            const displayValue = rawValue.toLocaleString()
             switch (key) {
-              case 'Deck Value' || 'Bank':
-                rowStr += `<td><a target='_blank' href='https://www.nationstates.net/nation=${
-                  deck.Nation
-                }/page=deck/value_deck=1'>${deck[key] ? parseInt(deck[key]).toLocaleString() : 0}</a></td>`
+              case 'Deck Value':
+              case 'Bank':
+                rowStr += `<td data-value="${rawValue}"><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck/value_deck=1'>${displayValue}</a></td>`
                 break
               case 'Card Count':
-                rowStr += `<td><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck'>${
-                  deck[key] ? parseInt(deck[key]).toLocaleString() : 0
-                }</a></td>`
+                rowStr += `<td data-value="${rawValue}"><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck'>${displayValue}</a></td>`
                 break
               case 'Nation':
-                rowStr += `<td><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck'>${
-                  deck[key] ? deck[key] : 0
-                }</a></td>`
+                rowStr += `<td><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck'>${deck[key] ? deck[key] : 0}</a></td>`
                 break
               default:
-                rowStr += `<td>${deck[key] ? parseInt(deck[key]).toLocaleString() : 0}</td>`
+                rowStr += `<td data-value="${rawValue}">${displayValue}</td>`
             }
           })
           hideableHeaders.forEach(key => {
+            const rawValue = deck[key] ? parseInt(deck[key]) : 0
+            const displayValue = rawValue.toLocaleString()
             if (Object.keys(deck).includes(key)) {
               if (key.includes('S') && !key.includes(' ')) {
-                rowStr += `<td class="hideable hide"><a target='_blank' href='https://www.nationstates.net/nation=${
-                  deck.Nation
-                }/page=deck/?filter=${key.replace('S', 'season-')}'>${parseInt(deck[key]).toLocaleString()}</a></td class="hideable hide">`
+                rowStr += `<td class="hideable hide" data-value="${rawValue}"><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck/?filter=${key.replace('S', 'season-')}'>${displayValue}</a></td>`
               } else if (key.includes(' ')) {
                 let adjKey = key.split(' ')
-                rowStr += `<td class="hideable hide"><a target='_blank' href='https://www.nationstates.net/nation=${
-                  deck.Nation
-                }/page=deck/?filter=${adjKey[0].replace('S', 'season-')}+${adjKey[1].toLowerCase()}'>${
-                  parseInt(deck[key]).toLocaleString()
-                }</a></td class="hideable hide">`
+                rowStr += `<td class="hideable hide" data-value="${rawValue}"><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck/?filter=${adjKey[0].replace('S', 'season-')}+${adjKey[1].toLowerCase()}'>${displayValue}</a></td>`
               } else if (!key.includes('S')) {
-                rowStr += `<td class="hideable hide"><a target='_blank' href='https://www.nationstates.net/nation=${
-                  deck.Nation
-                }/page=deck/?filter=${key.toLowerCase()}'>${parseInt(deck[key]).toLocaleString()}</a></td class="hideable hide">`
+                rowStr += `<td class="hideable hide" data-value="${rawValue}"><a target='_blank' href='https://www.nationstates.net/nation=${deck.Nation}/page=deck/?filter=${key.toLowerCase()}'>${displayValue}</a></td>`
               }
-            } else rowStr += `<td class="hideable hide">0</td>`
+            } else rowStr += `<td class="hideable hide" data-value="0">0</td>`
           })
           row.innerHTML = rowStr
           table.appendChild(row)
@@ -164,14 +155,13 @@
             const currentOrder = col.getAttribute('data-order')
             const newOrder = currentOrder === 'asc' ? 'desc' : 'asc'
             rows.sort((a, b) => {
-              const aValue = parseFloat(a.cells[columnIndex].innerText.replaceAll(',', ''))
-              const bValue = parseFloat(b.cells[columnIndex].innerText.replaceAll(',', ''))
+              const aValue = parseFloat(a.cells[columnIndex].dataset.value ?? 0)
+              const bValue = parseFloat(b.cells[columnIndex].dataset.value ?? 0)
               if (currentOrder === 'asc' && currentOrder !== 'none') {
                 return aValue > bValue ? 1 : aValue === bValue ? 0 : -1
               } else {
                 return aValue > bValue ? -1 : aValue === bValue ? 0 : 1
               }
-              return aValue > bValue ? 1 : aValue === bValue ? 0 : -1
             })
             table.append(...rows)
             col.setAttribute('data-order', newOrder)
