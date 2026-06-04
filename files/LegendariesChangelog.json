@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-03",
+    "changes": [
+      {
+        "name": "Greater Cesnica",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-06-02",
     "changes": [
       {
