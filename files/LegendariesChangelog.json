@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-21",
+    "changes": [
+      {
+        "name": "Sionis Prioratus",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-06-18",
     "changes": [
       {
