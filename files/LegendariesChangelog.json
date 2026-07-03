@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-02",
+    "changes": [
+      {
+        "name": "Kyrusia",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-01",
     "changes": [
       {
