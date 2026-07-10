@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-09",
+    "changes": [
+      {
+        "name": "Racoda",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "changes": [
       {
