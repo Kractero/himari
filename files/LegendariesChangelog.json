@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-07-12",
+    "changes": [
+      {
+        "name": "Corfad",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Andusre",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "changes": [
       {
