@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-13",
+    "changes": [
+      {
+        "name": "Andusre",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "changes": [
       {
