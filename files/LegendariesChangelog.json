@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-07-14",
+    "changes": [
+      {
+        "name": "The Sinclarian Provinces",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "PhilTech",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "changes": [
       {
