@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-07-16",
+    "changes": [
+      {
+        "name": "Unibotian WA Mission",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "The Sinclarian Provinces",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "changes": [
       {
