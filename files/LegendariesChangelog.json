@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-17",
+    "changes": [
+      {
+        "name": "Eraver",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "changes": [
       {
