@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-07-30",
+    "changes": [
+      {
+        "name": "The Centauri",
+        "seasons": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "changes": [
       {
