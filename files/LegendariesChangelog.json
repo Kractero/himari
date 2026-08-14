@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-08-13",
+    "changes": [
+      {
+        "name": "The Sinclarian Provinces",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Walfo",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "changes": [
       {
