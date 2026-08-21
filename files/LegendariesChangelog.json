@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-08-20",
+    "changes": [
+      {
+        "name": "SalusaSecondus",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Stoklomolvi",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Duxburian Union",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "changes": [
       {
