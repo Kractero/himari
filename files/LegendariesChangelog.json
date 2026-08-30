@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-08-29",
+    "changes": [
+      {
+        "name": "The Sinclarian Provinces",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "SherpDaWerp",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Minskiev",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "changes": [
       {
