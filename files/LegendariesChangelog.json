@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-30",
+    "changes": [
+      {
+        "name": "SherpDaWerp",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "changes": [
       {
