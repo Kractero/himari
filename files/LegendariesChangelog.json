@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-02",
+    "changes": [
+      {
+        "name": "Chingis",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "changes": [
       {
