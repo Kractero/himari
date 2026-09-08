@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-09-07",
+    "changes": [
+      {
+        "name": "Chingis",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Fauxia",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "changes": [
       {
