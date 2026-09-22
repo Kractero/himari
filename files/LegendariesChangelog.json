@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-21",
+    "changes": [
+      {
+        "name": "West Barack and East Obama",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "changes": [
       {
