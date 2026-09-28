@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-27",
+    "changes": [
+      {
+        "name": "Edgemaster",
+        "seasons": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "changes": [
       {
