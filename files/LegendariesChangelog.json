@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-04",
+    "changes": [
+      {
+        "name": "Roavin",
+        "seasons": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "changes": [
       {
