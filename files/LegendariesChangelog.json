@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-13",
+    "changes": [
+      {
+        "name": "Artoonia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "changes": [
       {
