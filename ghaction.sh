@@ -27,12 +27,12 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Data generation complete"
 git config --local user.email "actions@github.com"
 git config --local user.name "Actions"
 
-git add "files/Legendaries"*.json
-git add "files/leaderboard.txt"
-git add "data/"*.json
-git add "data/"*.xml
-git add "files/trades.csv"
-git add "files/"*.html
+git add -A -- "files/Legendaries"*.json
+git add -A -- "files/leaderboard.txt"
+git add -A -- "data/"*.json
+git add -A -- "data/"*.xml
+git add -A -- "files/trades.csv"
+git add -A -- "files/"*.html
 
 git commit -m "($NOW) Update"
 git push
