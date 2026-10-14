@@ -10,23 +10,28 @@ todays_date = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 def download_and_save_xml(url, output_file, approved_keys, iter_str):
     try:
+        os.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)
         with urlopen(Request(url, headers={'User-Agent': 'Kractero'})) as response:
             if response.status == 200:
-                with gzip.GzipFile(fileobj=BytesIO(response.read())) as gzipped_file:
-                    xml_text = gzipped_file.read()
+                with gzip.GzipFile(fileobj=response) as gzipped_file:
+                    with open(output_file, 'wb') as xml_file:
+                        xml_file.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
 
-                root = ET.fromstring(xml_text)
+                        xml_file.write(f"<{iter_str}S>\n".encode())
 
-                for iterable in root.iter(iter_str):
-                    for element in list(iterable):
-                        if element.tag not in approved_keys:
-                            iterable.remove(element)
+                        for event, element in ET.iterparse(gzipped_file, events=("end",)):
+                            if element.tag != iter_str:
+                                continue
 
-                filtered_xml_text = ET.tostring(root)
+                            for child in list(element):
+                                if child.tag not in approved_keys:
+                                    element.remove(child)
 
-                with open(output_file, 'wb') as xml_file:
-                    xml_file.write(filtered_xml_text)
+                            xml_file.write(ET.tostring(element, encoding='utf-8'))
+                            xml_file.write(b"\n")
+                            element.clear()
 
+                        xml_file.write(f'</{iter_str}S>\n'.encode())
                 print(f'XML file downloaded and saved successfully: {output_file}')
             else:
                 print(f'Failed to fetch dump from NationStates with status {response.status}')
@@ -34,7 +39,6 @@ def download_and_save_xml(url, output_file, approved_keys, iter_str):
         print(f'An error occurred: {e}')
 
 def main():
-    todays_date = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     download_and_save_xml('https://www.nationstates.net/pages/regions.xml.gz', f'data/{todays_date}-Regions.xml', ("NAME", "NUMNATIONS", "UNNATIONS", "DELEGATEVOTES", "DELEGATEAUTH", "LASTUPDATE", "FACTBOOK", "EMBASSIES"), "REGION")
     download_and_save_xml('https://www.nationstates.net/pages/nations.xml.gz', f'data/{todays_date}-Nations.xml', ("NAME", "DBID", "ENDORSEMENTS"), "NATION")
     previous_date = (datetime.now() - timedelta(days=2)).strftime('%Y-%m-%d')
