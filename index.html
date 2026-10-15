@@ -29,6 +29,7 @@
         .then(response => response.text())
         .then(dates => {
           validDates = Array.from(new Set(dates.trim().split('\n').filter(d => d.length > 0))).reverse()
+          maxDate = validDates[0]
           fillTable(maxDate)
           document.querySelector('#dateInput').max = maxDate
         })
@@ -39,7 +40,7 @@
 
       document.querySelector('#dateInput').addEventListener('change', async event => {
         const selectedDate = event.target.value
-        if (validDates.has(selectedDate)) {
+        if (validDates.includes(selectedDate)) {
           document.querySelector('.error').textContent = ''
           await fillTable(selectedDate)
         } else {
