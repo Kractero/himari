@@ -23,11 +23,12 @@
     <script>
       const minDate = '2023-10-05'
       let maxDate = new Date().toISOString().split('T')[0]
+      let validDates = new Set()
+
       fetch('/files/leaderboard.txt')
         .then(response => response.text())
         .then(dates => {
-          const lines = dates.split('\n').reverse()
-          maxDate = lines[0]
+          validDates = Array.from(new Set(dates.trim().split('\n').filter(d => d.length > 0))).reverse()
           fillTable(maxDate)
           document.querySelector('#dateInput').max = maxDate
         })
@@ -36,10 +37,13 @@
           document.querySelector('.error').textContent = 'Failed to fetch the latest date.'
         })
 
-      document.querySelector('input').addEventListener('change', async event => {
+      document.querySelector('#dateInput').addEventListener('change', async event => {
         const selectedDate = event.target.value
-        if (selectedDate && selectedDate >= '2023-10-05' && selectedDate <= maxDate) {
+        if (validDates.has(selectedDate)) {
+          document.querySelector('.error').textContent = ''
           await fillTable(selectedDate)
+        } else {
+          document.querySelector('.error').textContent = 'No data for this date.'
         }
       })
       const toggleHeadersButton = document.getElementById('toggleHeadersButton')
