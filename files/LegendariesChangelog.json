@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-16",
+    "changes": [
+      {
+        "name": "Auralia",
+        "seasons": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Giovenith",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": false,
+        "new": true
+      },
+      {
+        "name": "Candensia",
+        "seasons": [
+          false,
+          true,
+          true,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "changes": [
       {
