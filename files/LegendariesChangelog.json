@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-17",
+    "changes": [
+      {
+        "name": "Qvait",
+        "seasons": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "old": true,
+        "new": false
+      },
+      {
+        "name": "Davidianian",
+        "seasons": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "old": true,
+        "new": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "changes": [
       {
