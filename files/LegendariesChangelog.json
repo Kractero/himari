@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-24",
+    "changes": [
+      {
+        "name": "Seanat",
+        "seasons": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "changes": [
       {
